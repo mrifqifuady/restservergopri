@@ -1,0 +1,23 @@
+[10-Apr-2018 16:17:32 Asia/Jakarta] PHP Fatal error:  Call to a member function unset_userdata() on a non-object in /home/u1926541/public_html/rest_serverGopri/application/controllers/Admin.php on line 99
+[10-Apr-2018 17:20:32 Asia/Jakarta] PHP Fatal error:  Call to a member function unset_userdata() on a non-object in /home/u1926541/public_html/rest_serverGopri/application/controllers/Admin.php on line 99
+[11-Apr-2018 15:35:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/u1926541/public_html/rest_serverGopri/application/models/Siswa_model.php on line 115
+[11-Apr-2018 15:38:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/u1926541/public_html/rest_serverGopri/application/models/Siswa_model.php on line 115
+[11-Apr-2018 15:46:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/u1926541/public_html/rest_serverGopri/application/models/Siswa_model.php on line 115
+[11-Apr-2018 15:46:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/u1926541/public_html/rest_serverGopri/application/models/Siswa_model.php on line 115
+[12-Apr-2018 07:28:46 Asia/Jakarta] PHP Fatal error:  Call to a member function sess_destroy() on a non-object in /home/u1926541/public_html/rest_serverGopri/application/controllers/Admin.php on line 100
+[12-Apr-2018 07:28:47 Asia/Jakarta] PHP Fatal error:  Call to a member function sess_destroy() on a non-object in /home/u1926541/public_html/rest_serverGopri/application/controllers/Admin.php on line 100
+[20-Apr-2018 06:36:48 Asia/Jakarta] PHP Fatal error:  Call to undefined function isChecked() in /home/u1926541/public_html/rest_serverGopri/application/controllers/Siswa.php on line 37
+[30-Apr-2018 23:20:43 Asia/Jakarta] PHP Fatal error:  Cannot access empty property in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 357
+[30-Apr-2018 23:45:17 Asia/Jakarta] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 362
+[01-May-2018 00:20:49 Asia/Jakarta] PHP Fatal error:  Method name must be a string in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 358
+[01-May-2018 00:32:52 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 357
+[01-May-2018 01:39:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/u1926541/public_html/rest_serverGopri/application/controllers/Siswa.php on line 19
+[01-May-2018 01:41:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/u1926541/public_html/rest_serverGopri/application/controllers/Siswa.php on line 19
+[01-May-2018 01:43:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/u1926541/public_html/rest_serverGopri/application/controllers/Siswa.php on line 19
+[01-May-2018 01:47:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/u1926541/public_html/rest_serverGopri/application/controllers/Siswa.php on line 19
+[01-May-2018 01:47:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/u1926541/public_html/rest_serverGopri/application/controllers/Siswa.php on line 19
+[02-May-2018 23:23:33 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 388
+[05-May-2018 03:08:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 494
+[05-May-2018 18:38:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::num_row() in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 493
+[10-May-2018 04:01:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 628
+[10-May-2018 04:01:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/u1926541/public_html/rest_serverGopri/application/controllers/Guru.php on line 628
